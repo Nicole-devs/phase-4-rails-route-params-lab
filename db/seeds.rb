@@ -6,3 +6,5 @@ Student.create(first_name: 'Vanessa', last_name: 'Kirby', grade: 85)
 Student.create(first_name: 'Jason', last_name: 'Statham', grade: 70)
 
 puts '✅ Done seeding'
+
+
