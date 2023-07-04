@@ -8,8 +8,7 @@ class StudentsController < ApplicationController
     end
   
     render json: students
-  end
-  
+  end  
 
   def show
     students = Student.find(params[:id])
